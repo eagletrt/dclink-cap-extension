@@ -359,7 +359,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "template.kicad_pro",
+    "filename": "dclink.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -391,7 +391,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "dclink.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
