@@ -1781,7 +1781,7 @@
   )
 
   (footprint "dcbk310:mounting_holes" (layer "F.Cu")
-    (tedit 6449817D) (tstamp 5774bdd1-8194-448a-aec7-dfa84546f3f4)
+    (tedit 644986C9) (tstamp 5774bdd1-8194-448a-aec7-dfa84546f3f4)
     (at 170.6 84.5)
     (property "Sheetfile" "dclink.kicad_sch")
     (property "Sheetname" "")
@@ -1800,7 +1800,7 @@
       (tstamp 30c38d61-c40c-4343-b062-4ca436ed88b8)
     )
     (pad "1" thru_hole circle (at -41 0) (size 12 12) (drill 6) (layers *.Cu *.Mask)
-      (zone_connect 2) (tstamp 35eab331-86c6-4cb6-9184-78f5a185c17a))
+      (zone_connect 0) (tstamp 35eab331-86c6-4cb6-9184-78f5a185c17a))
     (pad "2" thru_hole circle (at 0 0) (size 12 12) (drill 6) (layers *.Cu *.Mask)
       (zone_connect 2) (tstamp c50735f4-6020-400c-a452-2ae81a0d9fc9))
   )
