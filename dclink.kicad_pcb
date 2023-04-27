@@ -97,7 +97,7 @@
   (net 0 "")
 
   (footprint "dcbk310:dcb-k310" (layer "F.Cu")
-    (tedit 644A5EFA) (tstamp 197bd5fb-162a-473f-84ec-1273d7544e37)
+    (tedit 644AB085) (tstamp 197bd5fb-162a-473f-84ec-1273d7544e37)
     (at 149.9 102.3)
     (attr through_hole)
     (fp_text reference "900Vdc" (at 0 -13 unlocked) (layer "F.SilkS")
@@ -1807,7 +1807,7 @@
   )
 
   (footprint "dcbk310:mounting_holes" (layer "F.Cu")
-    (tedit 644A5E8D) (tstamp a3247184-f68b-4093-bb7a-eab185a3cd9d)
+    (tedit 644AD8AB) (tstamp a3247184-f68b-4093-bb7a-eab185a3cd9d)
     (at 170.6 84.5)
     (attr through_hole)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
