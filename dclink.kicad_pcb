@@ -1806,7 +1806,7 @@
   )
 
   (footprint "dcbk310:dcb-k310" (layer "F.Cu")
-    (tedit 644B8838) (tstamp 752417ee-7d0b-4ac8-a22c-26669881a2ab)
+    (tedit 644E31D6) (tstamp 752417ee-7d0b-4ac8-a22c-26669881a2ab)
     (at 149.9 121.3 180)
     (property "Sheetfile" "dclink.kicad_sch")
     (property "Sheetname" "")
