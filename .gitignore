@@ -27,9 +27,6 @@ fp-info-cache
 *.xml
 *.csv
 
-# PCB output files
-/output/*
-
 # Backup files
 /*-backups/
 
